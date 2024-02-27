@@ -1,4 +1,4 @@
-# SpiderPDB: Atomistic model of the spider silk nanostructure
+# SpiderPDB: Atomistic model of the spider silk nanostructures
 
 Spider silk is an ultrastrong and extensible self-assembling biopolymer that outperforms the mechanical characteristics of many synthetic materials including steel. Here we report atomic-level structures that represent aggregates of MaSp1 proteins from the N. Clavipes silk sequence based on a bottom-up computational approach using replica exchange molecular dynamics. We discover that poly-alanine regions predominantly form distinct and orderly beta-sheet crystal domains while disorderly structures are formed by poly-glycine repeats, resembling 
 -helices. These could be the molecular source of the large semicrystalline fraction observed in silks, and also form the basis of the so-called “prestretched” molecular configuration. Our structures reported in [1] are validated against experimental data based on dihedral angle pair calculations presented in Ramachandran plots, alpha-carbon atomic distances, as well as secondary structure content.
