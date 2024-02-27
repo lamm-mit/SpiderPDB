@@ -13,8 +13,10 @@ This repository includes PDB files of spider silk structures reported and studie
 References:
 
 [1] S. Keten and M.J. Buehler, Atomistic model of the spider silk nanostructure, Appl. Phys. Lett. 96, 153701 (2010), DOI: https://doi.org/10.1063/1.3385388
+URL: https://pubs.aip.org/aip/apl/article/96/15/153701/338788/Atomistic-model-of-the-spider-silk-nanostructure
 
 [2] S. Keten and M.J. Buehler, Nanostructure and molecular mechanics of spider dragline silk protein assemblies, Roy. Soc. Interface (2010), DOI: 10.1098/rsif.2010.0149
+URL: https://royalsocietypublishing.org/doi/10.1098/rsif.2010.0149
 
 ![image](https://github.com/lamm-mit/SpiderPDB/assets/101393859/4da0f82d-bb14-4589-b6b6-f6a0452bc025)
 
